@@ -36,14 +36,18 @@
   <text x="448" y="12" font-size="12" text-anchor="start" fill="red">448</text>
   <text x="512" y="12" font-size="12" text-anchor="start" fill="red">512</text>
 
-<circle fill="black"  cx="250" cy="280" r="60" />
-<circle fill="black"  cx="200" cy="220" r="35" />
-<circle fill="black"  cx="300" cy="220" r="35" />
 
 
 
 
-
+<polygon fill="white"  stroke="black" stroke-width="1"  points="230,230 170,180 160,260"/>
+<polygon fill="white"  stroke="black" stroke-width="1"  points="280,230 330,180 340,260"/>
+<ellipse fill="white" stroke="black" stroke-width="1" cx="250" cy="280" rx="100" ry="90"/>
+<ellipse fill="black"  cx="210" cy="280" rx="10" ry="13"/>
+<ellipse fill="black"  cx="290" cy="280" rx="10" ry="13"/>
+<polygon fill="red"   points="300,200 280,230 320,250"/>
+<polygon fill="red"   points="320,250 350,280 370,250"/>
+<ellipse fill="yellow"  cx="250" cy="310" rx="15" ry="10"/>
 
 
 </svg>

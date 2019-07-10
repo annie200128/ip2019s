@@ -36,34 +36,14 @@
   <text x="448" y="12" font-size="12" text-anchor="start" fill="red">448</text>
   <text x="512" y="12" font-size="12" text-anchor="start" fill="red">512</text>
 
+<circle fill="black"  cx="250" cy="280" r="60" />
+<circle fill="black"  cx="200" cy="220" r="35" />
+<circle fill="black"  cx="300" cy="220" r="35" />
 
 
 
- 
-  <circle cx="150" cy="100" r="80" fill="blue" transform="translate(100,50)"></circle>
-  <circle cx="150" cy="110" r="65" fill="white" transform="translate(100,50)"></circle>
 
 
-  <ellipse fill="white" cx="122.5" cy="70" rx="25" ry="32" transform="translate(100,50)" stroke="black"></ellipse>
-  <ellipse fill="white" cx="172.5" cy="70" rx="25" ry="32" transform="translate(100,50)" stroke="black"></ellipse>
-
-  <circle cx="150" cy="100" r="15" fill="red" transform="translate(100,50)"></circle>
-  <ellipse fill="black" cx="270" cy="120" rx="8" ry="10"></ellipse>
-  <ellipse fill="black" cx="230" cy="120" rx="8" ry="10"></ellipse>
-  <ellipse fill="white" cx="270" cy="120" rx="3" ry="5"></ellipse>
-  <ellipse fill="white" cx="230" cy="120" rx="3" ry="5"></ellipse>
-
-
-<rect x="202" y="220" rx="10" ry="10" width="95" height="15" fill="red"/>
-  <circle cx="150" cy="190" r="15" fill="yellow" transform="translate(100,50)"></circle>
-<path d="M200 180 C240 210,250 210,300,180" stroke="black" fill="none"/>
-<path d="M200 175 L230 170" stroke="black"/>
-<path d="M270 170 L300 175" stroke="black"/>
-<path d="M200 165 L230 165" stroke="black"/>
-<path d="M200 155 L230 160" stroke="black"/>
-<path d="M270 165 L300 165" stroke="black"/>
-<path d="M270 160 L300 155" stroke="black"/>
-<path d="M250 165 L250 200" stroke="black"/>
 
 
 </svg>
